@@ -7,6 +7,7 @@ export default function App() {
   const [opacity] = useState(new Animated.Value(0));
   const [logo] = useState(new Animated.ValueXY({x:120, y:145}));
   //const [logo] = useState(new Animated.ValueXY({x:130, y:155}));
+  //Apenas1Teste
 
   useEffect(() => {
     
