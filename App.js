@@ -8,6 +8,7 @@ export default function App() {
   const [logo] = useState(new Animated.ValueXY({x:120, y:145}));
   //const [logo] = useState(new Animated.ValueXY({x:130, y:155}));
   //Apenas1Teste
+  //teste2
 
   useEffect(() => {
     
